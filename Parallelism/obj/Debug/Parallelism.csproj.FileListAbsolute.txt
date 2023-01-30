@@ -1,0 +1,8 @@
+C:\Users\sfurl\source\repos\Parallelism\Parallelism\bin\Debug\Parallelism.exe.config
+C:\Users\sfurl\source\repos\Parallelism\Parallelism\bin\Debug\Parallelism.exe
+C:\Users\sfurl\source\repos\Parallelism\Parallelism\bin\Debug\Parallelism.pdb
+C:\Users\sfurl\source\repos\Parallelism\Parallelism\obj\Debug\Parallelism.csproj.AssemblyReference.cache
+C:\Users\sfurl\source\repos\Parallelism\Parallelism\obj\Debug\Parallelism.csproj.SuggestedBindingRedirects.cache
+C:\Users\sfurl\source\repos\Parallelism\Parallelism\obj\Debug\Parallelism.csproj.CoreCompileInputs.cache
+C:\Users\sfurl\source\repos\Parallelism\Parallelism\obj\Debug\Parallelism.exe
+C:\Users\sfurl\source\repos\Parallelism\Parallelism\obj\Debug\Parallelism.pdb
